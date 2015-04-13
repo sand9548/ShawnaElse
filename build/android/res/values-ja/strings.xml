@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="app_name" formatted="false">shawnaApp</string>
+	<string name="home" formatted="false">ホーム</string>
+	<string name="settings" formatted="false">設定</string>
+	<string name="openWindow" formatted="false">新しいウインドを開く</string>
+	<string name="newWindow" formatted="false">新しいウインド</string>
+</resources>
